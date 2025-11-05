@@ -2,7 +2,7 @@
 
 ### 💼 QA Automation Engineer  
 Kyiv, Ukraine  
-📧 [den.hilyk@gmail.com](mailto:den.hilyk@gmail.com)  
+📧 [den.hilyk@gmail.com](mailto:den.khilyk@gmail.com)  
 📱 +38x XX XXX XX XX  
 🔗 [LinkedIn](http://linkedin.com/in/denys-khilyk-a37a6a246)  
 🐙 [GitHub](https://github.com/BeardedHunter666)  
@@ -64,7 +64,7 @@ _September 2021 — December 2022_
 ## 🌍 LANGUAGES
 - 🇺🇦 Ukrainian — C2  
 - 🇷🇺 Russian — C2  
-- EN English — B2
+- 🇪🇳 English — B2
 
 ---
 
