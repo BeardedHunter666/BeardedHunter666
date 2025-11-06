@@ -1,4 +1,4 @@
-# 👋 Привіт! Я — Денис Хилик
+# 👋 Hello! I am — Denys Khilyk
 
 ### 💼 QA Automation Engineer  
 Kyiv, Ukraine  
